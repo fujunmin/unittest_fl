@@ -1,0 +1,20 @@
+test_login_empty (test_login.TestLogin) ... ok
+test_login_matched (test_login.TestLogin) ... ok
+test_login_nomatched (test_login.TestLogin) ... ok
+test_subs_list1 (test_subs_list.TestSubsList) ... ok
+test_subs_list2 (test_subs_list.TestSubsList) ... ok
+test_subs_list3 (test_subs_list.TestSubsList) ... ok
+test_subs_list4 (test_subs_list.TestSubsList) ... ok
+test_change_list (test_changes_list.TestChangeList) ... ok
+test_add_subs (test_add_subs.TestAddSubs) ... ok
+test_sub_detail1 (test_sub_detail.TestSubsDetail) ... ok
+test_sub_detail2 (test_sub_detail.TestSubsDetail) ... ok
+test_ent_id_subs (test_ent_id_subs.TestEntIdSubs) ... ok
+test_inactive_subs1 (test_inactive_sub.TestInactiveSub) ... ok
+test_remove_sub1 (test_remove_sub.TestRemoveSub) ... ok
+test_remove_sub2 (test_remove_sub.TestRemoveSub) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 7.060s
+
+OK
